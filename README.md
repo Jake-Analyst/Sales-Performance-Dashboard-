@@ -1,5 +1,6 @@
 # Sales Performance Dashboard
-![Dashboard Preview](./Powe%20BI%20sales%20dashboard%202.png)
+![Dashboard Preview](./Super%20Store%20Sales%20Dashboard%202.png)
+
 
 ## Executive Summary
 This Power BI dashboard provides a clear overview of company sales performance across different regions, products, and time periods. It helps management make informed decisions by visualizing key trends, top performers, and growth opportunities.
