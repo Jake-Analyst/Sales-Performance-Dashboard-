@@ -1,5 +1,5 @@
 # Sales Performance Dashboard
-![Dashboard Preview](./Super%20Store%20Sales%20Dashboard%202.png)
+![Dashboard Preview](./Sales-Dashboard.png)
 
 
 ## Executive Summary
